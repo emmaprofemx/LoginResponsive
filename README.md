@@ -7,9 +7,7 @@ Este proyecto presenta un sistema de inicio de sesión completamente funcional y
 - **Diseño Responsive:** El sistema de inicio de sesión se adapta de manera fluida a dispositivos móviles y de escritorio, garantizando una experiencia de usuario óptima en cualquier plataforma. 📱💻
 
 - **Personalización Simple:** Puedes personalizar fácilmente el aspecto y la marca de tu sistema de inicio de sesión con la flexibilidad que Flutter proporciona. 🎨
-
-- **Seguridad:** Se implementan medidas de seguridad robustas para proteger los datos de los usuarios y garantizar la integridad de la información. 🔒
-
+  
 - **Integración Sencilla:** El código está diseñado de manera modular, lo que facilita la integración de este sistema en tus proyectos existentes o futuros. 🧩
 
 ## Capturas de Pantalla
