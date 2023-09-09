@@ -18,7 +18,7 @@ Este proyecto presenta un sistema de inicio de sesión completamente funcional y
 
 **Captura de Pantalla Móvil:**
 <br>
-![Captura de Pantalla Móvil](https://github.com/emmaprofemx/LoginResponsive/blob/main/lib/images/capmovil.png)
+![Captura de Pantalla Móvil](https://github.com/emmaprofemx/LoginResponsive/blob/main/lib/images/capandroid.png)
 
 **Captura de Pantalla Web:**
 <br>
